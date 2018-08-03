@@ -9,7 +9,7 @@
 [基于Maven在IDE中开发Spark应用]()
 
 #### 二、 Spark Core
-- [RDD]()  
+- [RDD](https://hustfeiwang.github.io/ne-spark-courseware/RDDBasic.html)  
 - [Spark On YARN]()
 
 
